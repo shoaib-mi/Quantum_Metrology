@@ -1,1 +1,0 @@
-here we put codes that generate formulas for collapsed condition of N00N state
